@@ -1,0 +1,1 @@
+Experimenting with yocto to create a custom embedded linux os
