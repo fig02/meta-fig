@@ -5,6 +5,7 @@ LICENSE = "MIT"
 inherit core-image
 
 IMAGE_FEATURES += "ssh-server-dropbear"
+IMAGE_LINGUAS = "en-us"
 
 IMAGE_INSTALL += "\
     packagegroup-core-boot \
